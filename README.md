@@ -10,3 +10,4 @@ Si te gusto el proyecto compártelo con otros, esto es un Landing Page GRATUITO 
 
 Si encuentras algún error, o mejor aún, deseas mejorar lo que ya está implementado, eres bienvenido a realizar cambios, pero cuidado, todos los cambios serán revisados y validados antes de ser subidos o actualizados.
 # laboratorio12dsn
+# laboratorio12dsn
